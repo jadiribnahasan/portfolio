@@ -1,0 +1,180 @@
+.nav {
+  background-color: rgb(58, 56, 58);
+  padding: 5px;
+  margin: 0px -10px 30px -10px;
+}
+
+.nav a {
+  margin: 10px;
+  margin-top: 0px;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 24px;
+}
+
+.nav a:hover {
+  color: lightblue;
+  text-decoration: none;
+}
+
+.logo img {
+  height: 70px;
+  width: 70px;
+  margin-top: -5px;
+  margin-bottom: 0px;
+  border-radius: 50px;
+}
+
+.links {
+  margin-left: 100px;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  float: left;
+  font-style: none;
+}
+.links a {
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+.main-component {
+  text-align: center;
+  margin: 60px;
+}
+
+.main-component h2 {
+  font-style: italic;
+  font: outline;
+  color: rgb(243, 117, 33);
+}
+
+.main-component span {
+  font-size: 20px;
+  margin-left: 500px;
+}
+
+table {
+  margin-top: 100px;
+  margin-left: 10px;
+}
+table thead tr {
+  margin: 100px;
+}
+
+.rank {
+  margin-top: 10px;
+  float: left;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.profileinfo {
+  padding: 80px;
+}
+
+#ratings {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid rgb(162, 180, 207);
+  width: 100%;
+}
+
+#ratings td,
+#ratings th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#ratings tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+#ratings tr:hover {
+  background-color: #ddd;
+}
+#ratings th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4caf50;
+  color: white;
+}
+.bio {
+  float: left;
+  margin: 30px;
+  margin-left: 60px;
+  text-decoration: none;
+}
+.bio h3 {
+  color: #e2793c;
+}
+
+.bio span {
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bio a {
+  text-decoration: none;
+}
+.repoContainer {
+  float: right;
+  margin-right: 500px;
+  margin-top: 30px;
+}
+.Repos {
+  margin: 20px;
+  background-color: #ddd;
+}
+
+.motivs {
+  margin-bottom: 50px;
+}
+
+.projects {
+  margin: 30px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.footer {
+  position: fixed;
+  background-image: linear-gradient(to right, green, yellow);
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  margin-left: 0px;
+}
+.footer h1 {
+  font-size: 30px;
+  margin: 15px;
+}
+.footer h6 {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.edu-card {
+  margin: 30px;
+}
+.img-holder {
+  margin-bottom: 10px;
+  background-color: antiquewhite;
+}
+.info {
+  background-color: rgb(158, 206, 187);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.image-box {
+  margin-top: 20px;
+}
+.card-image {
+}
+
+.profile-name h3 {
+  font-family: sans-serif;
+  color: rgb(27, 70, 85);
+}
+._bio {
+  font-size: 20px;
+  font-family: initial;
+}
